@@ -1,0 +1,21 @@
+.aboutc{
+    margin: 4rem 6rem;
+}
+.aboutc h1{
+    padding-bottom: 1rem;
+}
+.aboutc p{
+    padding-bottom: 2rem;
+}
+
+@media screen and (max-width:850px) {
+    .aboutc{
+        margin: 4rem 2rem;
+    }
+}
+
+
+
+
+
+
